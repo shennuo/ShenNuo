@@ -11,3 +11,9 @@ function goBack(){
 }
 </script>
 </head>
+<body>
+
+<input type="button" value="ºóÍË2Ò³" onclick="goBack()">
+
+</body>
+</html>

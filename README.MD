@@ -22,11 +22,3 @@ Add feature-C
 
 
 
-<body>
-<form name="myForm" action="demo_form.php"
-onsubmit="return validateForm()" method="post">
-名字: <input type="text" name="fname">
-<input type="submit" value="提交">
-</form>
-</body>
-</html>

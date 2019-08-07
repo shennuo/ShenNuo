@@ -13,10 +13,12 @@ function goBack(){
 </head>
 <body>
 
-<input type="button" value="ºóÍË2Ò³" onclick="goBack()">
-
+<input type="button" value="ÂºÃ³ÃÃ‹2Ã’Â³" onclick="goBack()"
 </body>
 </html>
 
 
 Add feature-C
+
+
+
